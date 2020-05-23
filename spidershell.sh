@@ -1,5 +1,5 @@
 #!/bin/bash
-# instagram: @thelinuchoice
+# instagram: @thelinuxchoice
 trap 'printf "\e[1;77m \n Ctrl+C was pressed, exiting...\n\n \e[0m"; rm -rf spider.url*; exit 0' 2
 counter=0
 turn=0
